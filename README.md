@@ -1,5 +1,3 @@
-# Unraid DVB Driver plugin
+# Unraid Audio Driver plugin
 
-This is the repository for the Unraid DVB Driver plugin.
-
-Support Thread: https://forums.unraid.net/topic/99027-plugin-dvb-driver/
+This is a repository to test installing audio drivers within Unraid UEFI GUIO boot.
