@@ -1,5 +1,5 @@
 #!/bin/bash
-PLUGIN_NAME="dvb-driver"
+PLUGIN_NAME="audio-driver"
 BASE_DIR="/usr/local/emhttp/plugins"
 TMP_DIR="/tmp/${PLUGIN_NAME}_"$(echo $RANDOM)""
 VERSION="$(date +'%Y.%m.%d')"
